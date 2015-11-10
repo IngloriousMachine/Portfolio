@@ -1,0 +1,45 @@
+/* myStyles.css */
+
+.bgimage {
+    background-image: url('../images/background.png');
+    background-position: center center;
+    background-size: cover;
+    height: 150px;
+}
+
+.icon {
+    max-width: 150px;
+    margin: 0 auto;
+    display: block;
+    color: white;
+}
+
+.rubrik {
+    color: white;
+    background-color: gray;
+    text-decoration: underline;
+    font-style: oblique;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.textcolor {
+    color: white;
+    background-color: gray;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.glyphicon {
+    font-size: 5cm;
+    display: block;
+    text-align: center;
+    margin-top: 0.5cm;
+    color: red;
+}
+
+body {
+    background-image: url('../images/background.png');
+    background-color: #cccccc;
+    padding: 100px;
+    background-origin: content-box;
+}
